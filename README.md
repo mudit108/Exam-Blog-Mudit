@@ -109,7 +109,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mudit Dayma - mudit108dayma@gmail.com
 
-Project Link: [https://github.com/yourusername/pulseblog](https://github.com/yourusername/pulseblog)
+Project Link: https://github.com/mudit108/Exam-Blog-Mudit
 
 ```
 
